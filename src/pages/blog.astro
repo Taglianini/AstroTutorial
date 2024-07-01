@@ -1,16 +1,19 @@
+---
+const pageTitle = "Sobre mi";
+---
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Tagliani</title>
+		<title>{pageTitle}</title>
 	</head>
 	<body>
 		<a href="/">Inicio</a>
 		<a href="/about/">About me</a>
         <a href="/blog/">Blog</a>
-		<h1>Mi blog</h1>
+		<h1>{pageTitle}</h1>
         <p>Aca voy a poner un blog</p>
         <ul>
             <li><a href="/posts/post-1/">Publicación 1</a></li>
