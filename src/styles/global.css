@@ -1,0 +1,24 @@
+html {
+    background-color: #e0f7fa; /* Un color suave y moderno */
+    font-family: 'Roboto', sans-serif; /* Una fuente moderna y elegante */
+}
+
+body {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 80ch;
+    padding: 2rem; /* Un poco más de espacio alrededor del contenido */
+    line-height: 1.75; /* Mejorar la legibilidad */
+    color: #333; /* Texto en un gris oscuro para un mejor contraste */
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 1.5rem 0; /* Más espacio alrededor del título */
+    font-size: 3rem; /* Un tamaño de fuente mayor para el título */
+    font-weight: 700; /* Negrita para destacar el título */
+    color: #00796b; /* Un color verde azulado moderno para el título */
+}
