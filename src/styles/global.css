@@ -32,7 +32,7 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #ff9776;
+  background-color: #f0f020;
 }
 /* estilos de la barra de navegación*/
 
@@ -40,7 +40,7 @@ h1 {
     width: 100%;
     top: 5rem;
     left: 48px;
-    background-color: #ff9776;
+    background-color: #1cc842;
     display: none;
     margin: 0;
   }
@@ -57,7 +57,7 @@ h1 {
   
   .nav-links a:hover,
   .nav-links a:focus {
-    background-color: #ff9776;
+    background-color: #798eed;
   }
   
   .expanded {
